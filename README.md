@@ -114,42 +114,13 @@ Things I aim for:
     <tr>
       <td>🌍 <em>AutoSignal</em></td>
       <td> Real world top secret problem solving idea xD. Soon to be released</td>
-      <td>Laravel • Postgresql • React Native • Tailwind • TypeScript</td>
+      <td>Laravel • Postgresql • React Native • Tailwind • TypeScript • Docker</td>
     </tr>
     <tr>
       <td>🌍 <em>TubeForge</em></td>
-      <td>Donation platform with MoMo & Visa payment system</td>
-      <td>PHP • Paystack • Tailwind</td>
-    </tr>
-    <tr>
-      <td>💻 <em>POS App</em></td>
-      <td>Frozen food shop POS with sales & inventory tracking</td>
-      <td>PHP • MySQL • JavaScript</td>
-    </tr>
-    <tr>
-      <td>📰 <em>News Hub</em></td>
-      <td>Real-time campus news platform</td>
-      <td>React • Firebase</td>
-    </tr>
-    <tr>
-      <td>🎓 <em>Educational Hub</em></td>
-      <td>Student resource system with timetable & academic calendar</td>
-      <td>PHP • MySQL • Responsive Design</td>
-    </tr>
-    <tr>
-      <td>🌎 <em>Free Hosting</em></td>
-      <td>Static website hosting via GitHub Pages</td>
-      <td>HTML • CSS • GitHub Pages</td>
-    </tr>
-    <tr>
-      <td>⛪ <em>Church Website</em></td>
-      <td>Modern, responsive church site with structured pages</td>
-      <td>HTML • CSS • JavaScript</td>
-    </tr>
-    <tr>
-      <td>🚀 <em>More Projects Coming</em></td>
-      <td>New systems currently in development</td>
-      <td>—</td>
+      <td>TubeForge lets you build custom YouTube algorithms by creating keyword-based filters that surface exactly the content you want to   
+  watch</td>
+      <td>Next.js • TypeScript • Tailwind CSS • PostgreSQL • Prisma • NextAuth • Redis • Stripe • Docker</td>
     </tr>
   </tbody>
 </table>
@@ -159,22 +130,22 @@ Things I aim for:
 ## 🤝 Open to Opportunities
 
 I’m open to:  
-- Internships  
-- Freelance work  
-- Collaborations  
-- Learning opportunities  
+- Full-time jobs
+- Freelance work
+- Collaborations
+- Learning opportunities
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center" style="overflow-x:auto;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evanskofiassafuah&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christian-vasilev&theme=tokyonight"/>
 </div>
 
 <div align="center" style="overflow-x:auto;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=evanskofiassafuah&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=evanskofiassafuah&theme=tokyonight&utcOffset=0"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=christian-vasilev&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=christian-vasilev&theme=tokyonight&utcOffset=0"/>
 </div>
 
 ---
@@ -182,23 +153,10 @@ I’m open to:
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="mailto:evanskofiassafuah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://wa.me/233553326180"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://github.com/evanskofiassafuah"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/evans-kofi-assafuah-361333370"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
-
----
-
-<div align="center">
-
-<h2>Evans Kofi Assafuah</h2>
-<h3>Web Developer 🚀• Mobile App Developer 📱• IT Support Specialist 🖥</h3><br>
-
-<em>Building practical systems, one project at a time ⌚</em><br>
-<em>Innovating with purpose 🔥</em><br>
-<em>Open for opportunities & collaboration 🚀</em><br>
-
+  <a href="mailto:kristianvasilevv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/Melomancheto"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://github.com/christian-vasielv"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kristian-vasilev-026b44175"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
 <div align="center">
